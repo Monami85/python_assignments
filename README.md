@@ -10,7 +10,11 @@ Through this project, I aim to:
 •	Address key questions related to sales patterns, customer segmentation, and product popularity.
 •	Deliver actionable recommendations for targeted marketing campaigns.
 
+Tools and Libraries Used
 
+Python Libraries: pandas, NumPy, os, matplotlib, seaborn, scipy
+
+Environment: Jupyter Notebooks (via Anaconda)
 
 
 
