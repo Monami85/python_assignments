@@ -30,7 +30,7 @@ Customer Segmentation : <br />
   a.	How does brand loyalty vary among customers?<br />
   b.	Are there differences in ordering habits based on loyalty, region, age or family status?<br />
   c.	What demographic classifications can be identified and how do their ordering habits differ?<br />
-  <br /><br />
+  <br />
 
 Data Description <br />
 This analysis uses the following datasets:<br />
@@ -43,12 +43,12 @@ The datasets include information on orders, customers and products. These are in
 
 Data Citation<br />
 “The Instacart Online Grocery Shopping Dataset 2017,” Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
-<br /><br />
+<br />
 
 Tools and Libraries Used<br />
   a.	Python Libraries : pandas, NumPy, os, matplotlib, seaborn, scipy<br />
   b.	Environment : Jupyter Notebooks (via Anaconda)<br />
-<br /><br />
+<br />
 
 Deliverables<br />
 Python Scripts : <br /> 
