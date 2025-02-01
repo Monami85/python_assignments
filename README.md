@@ -61,12 +61,14 @@ Final Report : <br />
 A comprehensive report detailing methodology, results and stakeholder recommendations.<br />
 
 <br /><br />
-************************************************************************************************ <br />
-    Tools and Libraries Used
-    <br />
-    Python Libraries: pandas, NumPy, os, matplotlib, seaborn, scipy
-    <br /><br />
-    Environment: Jupyter Notebooks (via Anaconda)
-    <br />
-************************************************************************************************* <br />
+*************************************************************************************************************************** <br />
+                  Tools and Libraries Used
+                  <br />
+                  Python Libraries: pandas, NumPy, os, matplotlib, seaborn, scipy
+                  <br /><br />
+                  Environment: Jupyter Notebooks (via Anaconda)
+                  <br />
+                  <br />
+                  Note: I refined the final layout, design and language of the project with assistance from ChatGPT.
+*************************************************************************************************************************** <br />
 
